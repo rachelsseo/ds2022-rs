@@ -1,2 +1,2 @@
-# ds2022-rs
+# DS2022
 Systems I at UVA SDS
